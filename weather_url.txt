@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/weather?id=3050594&units=metric&mode=xml&APPID=c111852ee383ccebbd6a7dd872613afc
